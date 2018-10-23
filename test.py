@@ -8,3 +8,7 @@ def index():
     print("嘎嘎嘎")
 
 
+def haha():
+    print("哈哈哈哈")
+
+
