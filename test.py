@@ -15,5 +15,6 @@ def index():
 def haha():
     print("哈哈哈哈")
 d = 10
+e = 20
 
 
